@@ -8,7 +8,7 @@ I'm a Computer Science student passionate about exploring and creating cutting-e
 <br>Languages: Python, Java, JavaScript, C++
 <br>Frameworks & Libraries: Django, React, Node.js, Flask, TensorFlow
 <br>Databases: MySQL, PostgreSQL, MongoDB
-<br>DevOps: Docker, GitHub Actions, Jenkins, Kuberneties
+<br>DevOps: Docker, GitHub Actions, Jenkins, Kuberneties, CI/CD
 <br>Cloud: AWS, Azure
 <br><br>
 🌱 Currently Learning
