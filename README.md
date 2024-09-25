@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Venkat Sai
 
 <!--
 **BojjaVenkatsai/BojjaVenkatsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+I'm a Computer Science student passionate about exploring and creating cutting-edge technology solutions. I enjoy working on a variety of projects, from web development to machine learning and everything in between. Currently, I'm expanding my knowledge in areas like cloud computing, algorithms, and software development.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
